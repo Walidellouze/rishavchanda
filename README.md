@@ -114,17 +114,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-###
 
-<h2 align="left">Contribution activity</h2>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Walidellouze/Walidellouze/output/snake.svg" alt="Snake animation" />
-
-###
 
 <h3 align="left">My Social Media</h3>
 
